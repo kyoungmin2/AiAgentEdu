@@ -1,0 +1,944 @@
+2026-03-27 11:20:16 - INFO - chainlit - Your app is available at http://localhost:8000
+gio: http://localhost:8000: Operation not supported
+2026-03-27 11:20:18 - INFO - watchfiles.main - 1 change detected
+2026-03-27 11:20:18 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      Math, 3.1.1                               │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:20:21] INFO     Starting MCP server 'Math' with    transport.py:183
+                             transport 'stdio'                                  
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:20:21] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:20:21 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      Math, 3.1.1                               │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:20:55] INFO     Starting MCP server 'Math' with    transport.py:183
+                             transport 'stdio'                                  
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:20:55] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+[RAG] 벡터 스토어 구축 완료: 4개 문서 → 161개 청크
+2026-03-27 11:20:55 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:10] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:10 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:12] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:12 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:15] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:16 - INFO - watchfiles.main - 1 change detected
+2026-03-27 11:21:16 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:19] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:19 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:21] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:22 - INFO - watchfiles.main - 1 change detected
+2026-03-27 11:21:22 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:26] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:26 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:38] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:39 - INFO - watchfiles.main - 1 change detected
+2026-03-27 11:21:39 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:45] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:46 - INFO - watchfiles.main - 1 change detected
+2026-03-27 11:21:46 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:54 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:54] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:55] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:21:55 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:21:55] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:22:02 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:02] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:03] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:03] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:22:03 - INFO - watchfiles.main - 1 change detected
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:11] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:11] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:11] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.1.1                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      HRRegulation, 3.1.1                       │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[03/27/26 11:22:11] INFO     Starting MCP server 'HRRegulation' transport.py:183
+                             with transport 'stdio'                             
+2026-03-27 11:22:11 - INFO - watchfiles.main - 1 change detected
